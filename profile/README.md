@@ -20,6 +20,7 @@ Previous coordinators:
   <summary>Members</summary>
 
   - YOUR NAME HERE
+  - AND YOUR!!!
 
 </details>
 
